@@ -1,4 +1,6 @@
 # useFetch
+This code defines a custom React hook (useFetch) that leverages SWR (Stale-While-Revalidate) 
+for data fetching and caching, and supports typescript.
 
 #### How to Use
 
